@@ -1,1 +1,2 @@
-im still waitting for homework teacher
+!#/bin/bash
+echo "check the memory of the file storage.sh">df -h
